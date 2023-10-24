@@ -9,11 +9,11 @@ body{
     height: 60px;
 }
 .col1{
-	width: 113px;
-	float:left;
-	height:100%;
-	margin-left:5px;
-	padding:5px 0px;
+    width: 113px;
+    float:left;
+    height:100%;
+    margin-left:5px;
+    padding:5px 0px;
 
 }
 .logo{
@@ -22,8 +22,8 @@ body{
 
 }
 .col2{
-	width: 90px;
-	float:left;
+    width: 90px;
+    float:left;
     height:100%;	
     margin-left:5px;
     color:#DDDDDD;
@@ -94,8 +94,8 @@ body{
     width: 76px;
     float:left;
     height:100%;
-	margin-left:5px;
-	color:#DDDDDD;
+    margin-left:5px;
+    color:#DDDDDD;
     font-size:100%;
     padding:5px 20px;
 }
@@ -104,8 +104,8 @@ body{
     width: 84px;
     float:left;
     height:100%;
-	margin-left:7px;
-	color:#DDDDDD;
+    margin-left:7px;
+    color:#DDDDDD;
     padding:10px 10px;
 }
 .shopcart{
@@ -130,8 +130,8 @@ body{
     width: 102px;
     margin-left:5px;
     float:left;
-	height:100%;
-	font-size:90%;
+    height:100%;
+    font-size:90%;
     padding:10px 10px;
     color:#DDDDDD;
     
@@ -141,8 +141,8 @@ body{
     width: 128px;
     margin-left:5px;
     float:left;
-	height:100%;
-	font-size:90%;
+    height:100%;
+    font-size:90%;
     padding:10px 10px;
     color:#DDDDDD;
 }
@@ -151,8 +151,8 @@ body{
     width: 69px;
     margin-left:5px;
     float:left;
-	height:100%;
-	font-size:90%;
+    height:100%;
+    font-size:90%;
     padding:10px 10px;
     color:#DDDDDD;
 
@@ -161,8 +161,8 @@ body{
     width: 81px;
     margin-left:5px;
     float:left;
-	height:100%;
-	font-size:90%;
+    height:100%;
+    font-size:90%;
     padding:10px 10px;
     color:#DDDDDD;
 }
@@ -170,13 +170,13 @@ body{
     width: 41px;
     margin-left:5px;
     float:left;
-	height:100%;
-	font-size:90%;
+    height:100%;
+    font-size:90%;
     padding:10px 10px;
     color:#DDDDDD;
 }
 .col14{
-	float:right;
+    float:right;
     width: 157px;
     margin-left:5px;
     margin-right:3px;
@@ -189,9 +189,9 @@ body{
 
 
 .row3{
-	height:248px;
-	width:1241px;
-	margin:auto;
+    height:248px;
+    width:1241px;
+    margin:auto;
     margin-top:20px;
 
 }
@@ -201,50 +201,50 @@ body{
 }
 
 .row4{
-	height:315px;
-	width:1241px;
-	margin:auto;
-	margin-top:5px;
+    height:315px;
+    width:1241px;
+    margin:auto;
+    margin-top:5px;
 }
 .col15{;
-	float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:0px
+    float:left;
+    height:293px;
+    width:295px;
+    margin-top:20px;
+    margin-left:0px
 }
 .img1{
     height:293px;
     width:295px;
 }
 .col16{
-	float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+    float:left;
+    height:293px;
+    width:295px;
+    margin-top:20px;
+    margin-left:20px
 }
 .img2{
     height:293px;
     width:295px;
 }
 .col17{
-	float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+    float:left;
+    height:293px;
+    width:295px;
+    margin-top:20px;
+    margin-left:20px
 }
 .img3{
     height:293px;
     width:295px;
 }
 .col18{
-	float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+    float:left;
+    height:293px;
+    width:295px;
+    margin-top:20px;
+    margin-left:20px
 }
 .img4{
     height:293px;
@@ -252,16 +252,16 @@ body{
 }
 .row5{
     height:315px;
-	width:1241px;
-	margin:auto;
-	margin-top:5px;
+    width:1241px;
+    margin:auto;
+    margin-top:5px;
 }
 .col19{
-	float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:0px
+     float:left;
+     height:293px;
+     width:295px;
+     margin-top:20px;
+     margin-left:0px
 }
 .img5{
     height:293px;
@@ -269,43 +269,43 @@ body{
 }
 
 .col20{
-	float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+     float:left;
+     height:293px;
+     width:295px;
+     margin-top:20px;
+     margin-left:20px
 }
 .img6{
     height:293px;
     width:295px;
 }
 .col21{
-  	float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+     float:left;
+     height:293px;
+     width:295px;
+     margin-top:20px;
+     margin-left:20px
 }
 .img7{
     height:293px;
     width:295px;
 }
 .col22{
-	float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+     float:left;
+     height:293px;
+     width:295px;
+     margin-top:20px;
+     margin-left:20px
 }
 .img8{
     height:293px;
     width:295px;
 }
 .row6{
-	height:315px;
-	width:1241px;
-	margin:auto;
-	margin-top:5px;
+    height:315px;
+    width:1241px;
+    margin:auto;
+    margin-top:5px;
 }
 .img9{
     height:293px;
@@ -313,10 +313,10 @@ body{
 }
 .col23{
     float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:0px
+    height:293px;
+    width:295px;
+    margin-top:20px;
+    margin-left:0px
 }
 .img9{
     height:293px;
@@ -325,10 +325,10 @@ body{
 
 .col24{
     float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+    height:293px;
+    width:295px;
+    margin-top:20px;
+    margin-left:20px
 }
 .img10{
     height:293px;
@@ -336,10 +336,10 @@ body{
 }
 .col25{
     float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+    height:293px;
+    width:295px;
+    margin-top:20px;
+    margin-left:20px
 }
 .img11{
     height:293px;
@@ -347,31 +347,31 @@ body{
 }
 .col26{
     float:left;
-	height:293px;
-	width:295px;
-	margin-top:20px;
-	margin-left:20px
+    height:293px;
+    width:295px;
+    margin-top:20px;
+    margin-left:20px
 }
 .img12{
     height:293px;
     width:295px;
 }
 .row7{
-	height:219px;
-	width:1241px;
-	margin:auto;
-	margin-top:20px;
+    height:219px;
+    width:1241px;
+    margin:auto;
+    margin-top:20px;
 }
 .img13{
     height:219px;
     width:1241px:
 }
 .row8{
-	height: 49px;
-	width:1277px;
-	background-color:rgb(55,71,90);
-	margin-top:100px;
-	color: #FFF;
+    height: 49px;
+    width:1277px;
+    background-color:rgb(55,71,90);
+    margin-top:100px;
+    color: #FFF;
     display: block;
     text-align: center;
     padding: 15px 0px;
@@ -379,9 +379,9 @@ body{
     font-size: 13px;    
 }
 .row9{
-	height:418px;
-	width:1277px;
-	background-color: #232F3E;
+    height:418px;
+    width:1277px;
+    background-color: #232F3E;
 }
 .main{
     float:left;
@@ -389,8 +389,6 @@ body{
     width:1000px;
     margin-left:135px;
     margin-top:50px;
-
-
 } 
 .bold{
     font-weight: bold;
